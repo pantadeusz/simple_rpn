@@ -32,8 +32,6 @@ SOFTWARE.
 #include <iterator>
 #include <list>
 #include <map>
-#include <map>
-#include <regex>
 #include <regex>
 #include <string>
 #include <vector>

@@ -6,8 +6,8 @@
  * 
  * */
 
-#include <iostream>
 #include "srpn.hpp"
+#include <iostream>
 
 
 int main(int argc, char **argv) {
